@@ -1,7 +1,7 @@
 //{ Driver Code Starts
 import java.util.*;
 
-public class Main {
+public class java_dijkstra {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
